@@ -1,2 +1,2 @@
-# JS-Websockets-Basic-Chat
-A basic websoc chat APP with Javascript
+# Websocket Basic Chat
+A basic websocket chat APP with Javascript
